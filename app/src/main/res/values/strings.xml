@@ -8,5 +8,5 @@
     <string name="result">Hasilnya.</string>
     <string name="image_classifier_failed">Foto Tidak Bisa Di Analis</string>
     <string name="empty_image_warning">masukkan gambarnya </string>
-    <string name="no_text_recognized">No text recognized!</string>
+    <string name="no_text_recognized">No text!</string>
 </resources>
